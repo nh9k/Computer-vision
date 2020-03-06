@@ -304,3 +304,13 @@ opencv_videostab2413d.lib;
 |<img src="https://user-images.githubusercontent.com/56310078/76100353-da367780-600f-11ea-936d-bcf2a5f6cbbf.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100397-ede1de00-600f-11ea-83a9-2a8a2a1034c5.jpg" width="400" height="400">|
 
 [Go 0. Outline](#0-outline)  
+
+
+#### `Input image source`
+
+[colorful stock](https://www.123rf.com/photo_48456275_stock-illustration-abstract-conceptual-design-of-the-wall-abstract-colorful-graphic-background-made-of-colored-cubes-in.html)  
+[corni_fructus](https://blog.naver.com/ds4098/221410254623)  
+[earth](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/)  
+Rhone River(Vincent Van Gogh)  
+Lemona, myimg(nanhee kim)  
+others(sungho kim class)  
