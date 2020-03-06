@@ -3,16 +3,16 @@
 This is the source code that summarizes the codes that I have gathered while attending Professor Sungho Kim's class (Yeungnam University, computer vision class) and my personal studies.
 
 ## Outline
-[1. Install OpenCV](#1-install-opencv)
-[2. Camera Distortion](#2-camera-distortion)
-[3. Color Space](#3-color-space)
-[4. Image Filtering](#4-image-filtering)
-[5. Edge](#5-edge)
-[6. Corner and Blob detector](#6-corner-and-blob-detector)
-[7. Fitting](#7-fitting)
-[8. Calibration](#8-calibration)
-[9. Stereo Matching and Rendering](#9-stereo-matching-and-rendering)
-[10. Face and body detection](#10-face-and-body-detection)
+[1. Install OpenCV](#1-install-opencv)  
+[2. Camera Distortion](#2-camera-distortion)  
+[3. Color Space](#3-color-space)  
+[4. Image Filtering](#4-image-filtering)  
+[5. Edge](#5-edge)  
+[6. Corner and Blob detector](#6-corner-and-blob-detector)  
+[7. Fitting](#7-fitting)  
+[8. Calibration](#8-calibration)  
+[9. Stereo Matching and Rendering](#9-stereo-matching-and-rendering)  
+[10. Face and body detection](#10-face-and-body-detection)  
 
 ## 1. Install OpenCV
 
