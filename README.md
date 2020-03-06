@@ -2,7 +2,7 @@
 
 This is the source code that summarizes the codes that I have gathered while attending Professor Sungho Kim's class (Yeungnam University, computer vision class) and my personal studies.
 
-## Outline
+## 0. Outline
 [1. Install OpenCV](#1-install-opencv)  
 [2. Camera Distortion](#2-camera-distortion)  
 [3. Color Space](#3-color-space)  
@@ -43,8 +43,8 @@ opencv_superres2413d.lib;
 opencv_ts2413d.lib;
 opencv_video2413d.lib;
 opencv_videostab2413d.lib;
-
-
+  
+[Go 0. Outline](#0-outline)  
 
 ## 2. Camera Distortion
 
@@ -53,6 +53,8 @@ opencv_videostab2413d.lib;
 |INPUT|OUTPUT|
 |------|---|
 |![soccer_distortion](https://user-images.githubusercontent.com/56310078/76083123-34bfdb80-5ff0-11ea-9796-43c0a911ceac.JPG)|![2_camera_distortion_result](https://user-images.githubusercontent.com/56310078/76083138-3a1d2600-5ff0-11ea-9433-7b1abac7e9c6.jpg)|
+
+[Go 0. Outline](#0-outline)  
 
 ## 3. Color Space
 
@@ -103,6 +105,8 @@ opencv_videostab2413d.lib;
 |Hue|Saturation|Value|
 |---|---|---|
 |<img src="https://user-images.githubusercontent.com/56310078/76090099-4dcf8900-5ffe-11ea-8440-e5c01638803f.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76090103-4f00b600-5ffe-11ea-9c7b-adc461fc66ef.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76090104-5031e300-5ffe-11ea-9a5e-15bb1915c41e.jpg" width="250" height="250">|
+
+[Go 0. Outline](#0-outline)  
 
 ## 4. Image Filtering
 
@@ -163,6 +167,8 @@ opencv_videostab2413d.lib;
 |------|---|---|
 |<img src="https://user-images.githubusercontent.com/56310078/76089336-ccc3c200-5ffc-11ea-9bca-f7442932085d.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76089338-cdf4ef00-5ffc-11ea-8df3-cb5f51213ad2.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76089340-cf261c00-5ffc-11ea-9b8d-e3fa70bd93db.jpg" width="300" height="300">|
 
+[Go 0. Outline](#0-outline)  
+
 ## 5. Edge
 
 - Canny edge
@@ -189,6 +195,8 @@ opencv_videostab2413d.lib;
 |Magnitude(X+Y)|Direction(X,Y)|
 |<img src="https://user-images.githubusercontent.com/56310078/76090893-caaf3280-5fff-11ea-9806-872624bba143.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76090895-cc78f600-5fff-11ea-9ed3-792d2fa575e6.jpg" width="300" height="300">|
 
+[Go 0. Outline](#0-outline)  
+
 ## 6. Corner and Blob detector
 
 - Harris Corner Detector
@@ -203,6 +211,8 @@ opencv_videostab2413d.lib;
 |INPUT|OUTPUT|
 |------|---|
 |<img src="https://user-images.githubusercontent.com/56310078/76091682-62f9e700-6001-11ea-92ef-be0413b76c3f.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76091647-4fe71700-6001-11ea-977b-6fabef4f5b1d.jpg" width="300" height="300">|
+
+[Go 0. Outline](#0-outline)  
 
 ## 7. Fitting
 
@@ -236,11 +246,15 @@ opencv_videostab2413d.lib;
 |---|---|---|
 |<img src="https://user-images.githubusercontent.com/56310078/76094489-11a02680-6006-11ea-9aa8-f88eb6f5d79b.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76094490-12d15380-6006-11ea-9c1f-9bf521f4691f.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76094495-14028080-6006-11ea-8aa5-93f7ca21a741.jpg" width="300" height="300">|
 
+[Go 0. Outline](#0-outline)  
+
 ## 8. Calibration
 
 1. Pring Checkerboard
 2. Using CamCalibrator tool of Darkpgmr
 3. Check Calibrate and Calculate focal length of your camera 
+
+[Go 0. Outline](#0-outline)  
 
 ## 9. Stereo Matching and Rendering
 
@@ -281,8 +295,12 @@ opencv_videostab2413d.lib;
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56310078/76101954-9729d380-6012-11ea-893f-358ae7d1ecba.gif)
 
+[Go 0. Outline](#0-outline)  
+
 ## 10. Face and body detection
 
 |INPUT|OUTPUT|
 |---|---|
 |<img src="https://user-images.githubusercontent.com/56310078/76100353-da367780-600f-11ea-936d-bcf2a5f6cbbf.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100397-ede1de00-600f-11ea-83a9-2a8a2a1034c5.jpg" width="400" height="400">|
+
+[Go 0. Outline](#0-outline)  
