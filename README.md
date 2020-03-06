@@ -56,43 +56,43 @@ opencv_videostab2413d.lib;
 
 |INPUT|OUTPUT(Blue)|OUTPUT(Green)|OUTPUT(Red)|
 |------|---|---|---|
-|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="150" height="150">|<img src="https://user-images.githubusercontent.com/56310078/76084158-9bde8f80-5ff2-11ea-815f-0a85ca2403bb.jpg" width="150" height="150">|<img src="https://user-images.githubusercontent.com/56310078/76084154-9aad6280-5ff2-11ea-800c-e2061737eb9c.jpg" width="150" height="150">|<img src="https://user-images.githubusercontent.com/56310078/76084152-997c3580-5ff2-11ea-957d-aa1a98f2e491.jpg" width="150" height="150">|
+|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76084158-9bde8f80-5ff2-11ea-815f-0a85ca2403bb.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76084154-9aad6280-5ff2-11ea-800c-e2061737eb9c.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76084152-997c3580-5ff2-11ea-957d-aa1a98f2e491.jpg" width="200" height="200">|
 
 - Input color
 
 |INPUT|OUTPUT(Blue)|OUTPUT(Green)|OUTPUT(Red)|
 |------|---|---|---|
-|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="150" height="150">|<img src="https://user-images.githubusercontent.com/56310078/76084514-5cfd0980-5ff3-11ea-998d-8f1f670e204c.png" width="150" height="150">|<img src="https://user-images.githubusercontent.com/56310078/76084510-5bcbdc80-5ff3-11ea-9e21-df6b9b88bbf3.png" width="150" height="150">|<img src="https://user-images.githubusercontent.com/56310078/76084508-5b334600-5ff3-11ea-87be-4d03309f7a99.png" width="150" height="150">|
+|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76084514-5cfd0980-5ff3-11ea-998d-8f1f670e204c.png" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76084510-5bcbdc80-5ff3-11ea-9e21-df6b9b88bbf3.png" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76084508-5b334600-5ff3-11ea-87be-4d03309f7a99.png" width="200" height="200">|
 
 - Builtin function vs Implementation (RGB to Gray)
 
 |INPUT|OUTPUT(Builtin)|OUTPUT(Implementation)|
 |------|---|---|
-|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76085021-8cf8dc80-5ff4-11ea-809e-fc485a5e0b13.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76085028-8e2a0980-5ff4-11ea-9498-d9712e9057e9.jpg" width="200" height="200">|
+|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76085021-8cf8dc80-5ff4-11ea-809e-fc485a5e0b13.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76085028-8e2a0980-5ff4-11ea-9498-d9712e9057e9.jpg" width="250" height="250">|
 
 - Builtin function vs Implementation (RGB to HSI)
 
 |INPUT|OUTPUT(Builtin-HSV)|OUTPUT(Implementation-HSI)|
 |---|---|---|
-|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76085641-cc73f880-5ff5-11ea-9b2b-a8f3ff258cff.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76085643-cda52580-5ff5-11ea-805c-bf5fe749549a.jpg" width="200" height="200">|
+|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76085641-cc73f880-5ff5-11ea-9b2b-a8f3ff258cff.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76085643-cda52580-5ff5-11ea-805c-bf5fe749549a.jpg" width="250" height="250">|
 
 - HSI(Hue, Saturation, Intensity) of Implementation
 
 |Hue|Saturation|Intensity|
 |---|---|---|
-|<img src="https://user-images.githubusercontent.com/56310078/76085648-ced65280-5ff5-11ea-8844-9f5ed2b783f7.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76085649-d0077f80-5ff5-11ea-9dfa-1fd499205b3d.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76085653-d1d14300-5ff5-11ea-9c1b-8adfb4fb283b.jpg" width="200" height="200">|
+|<img src="https://user-images.githubusercontent.com/56310078/76085648-ced65280-5ff5-11ea-8844-9f5ed2b783f7.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76085649-d0077f80-5ff5-11ea-9dfa-1fd499205b3d.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76085653-d1d14300-5ff5-11ea-9c1b-8adfb4fb283b.jpg" width="250" height="250">|
 
 - Builtin function vs Implementation (RGB to HSV)
 
 |INPUT|OUTPUT(Builtin-HSV)|OUTPUT(Implementation-HSV)|
 |---|---|---|
-|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76085641-cc73f880-5ff5-11ea-9b2b-a8f3ff258cff.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76090098-4d36f280-5ffe-11ea-8a92-a61d428e682a.jpg" width="200" height="200">|
+|<img src="https://user-images.githubusercontent.com/56310078/76084072-718cd200-5ff2-11ea-98cd-8b92390aea6a.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76085641-cc73f880-5ff5-11ea-9b2b-a8f3ff258cff.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76090098-4d36f280-5ffe-11ea-8a92-a61d428e682a.jpg" width="250" height="250">|
 
 - HSV(Hue, Saturation, Value) of Implementation
 
 |Hue|Saturation|Value|
 |---|---|---|
-|<img src="https://user-images.githubusercontent.com/56310078/76090099-4dcf8900-5ffe-11ea-8440-e5c01638803f.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76090103-4f00b600-5ffe-11ea-9c7b-adc461fc66ef.jpg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/56310078/76090104-5031e300-5ffe-11ea-9a5e-15bb1915c41e.jpg" width="200" height="200">|
+|<img src="https://user-images.githubusercontent.com/56310078/76090099-4dcf8900-5ffe-11ea-8440-e5c01638803f.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76090103-4f00b600-5ffe-11ea-9c7b-adc461fc66ef.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/56310078/76090104-5031e300-5ffe-11ea-9a5e-15bb1915c41e.jpg" width="250" height="250">|
 
 **4. Image Filtering**
 --
@@ -171,7 +171,7 @@ opencv_videostab2413d.lib;
 |OUTPUT(Min Threshold25)|OUTPUT(Min Threshold50)|
 |<img src="https://user-images.githubusercontent.com/56310078/76090546-17463e00-5fff-11ea-9417-1a70101dbca7.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76090553-18776b00-5fff-11ea-8d93-ae519a310421.jpg" width="300" height="300">|
 |OUTPUT(Min Threshold75)|OUTPUT(Min Threshold100)|
-|<img src="https://user-images.githubusercontent.com/56310078/76090326-b4ed3d80-5ffe-11ea-901e-8132613ded14.jpg" width="400" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76090329-b61e6a80-5ffe-11ea-8d0c-6781fb114220.jpg" width="400" height="300">|
+|<img src="https://user-images.githubusercontent.com/56310078/76090326-b4ed3d80-5ffe-11ea-901e-8132613ded14.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76090329-b61e6a80-5ffe-11ea-8d0c-6781fb114220.jpg" width="300" height="300">|
 
 - Sobel edge
 
@@ -181,3 +181,104 @@ opencv_videostab2413d.lib;
 |Magnitude(X+Y)|Direction(X,Y)|
 |<img src="https://user-images.githubusercontent.com/56310078/76090893-caaf3280-5fff-11ea-9806-872624bba143.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76090895-cc78f600-5fff-11ea-9ed3-792d2fa575e6.jpg" width="300" height="300">|
 
+**6. Corner and Blob detector**
+--
+
+- Harris Corner Detector
+    - Threshold LOW = Detected Corners MANY
+
+|INPUT|OUTPUT|
+|------|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76091682-62f9e700-6001-11ea-92ef-be0413b76c3f.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76091565-2928e080-6001-11ea-9bd1-5483d1a132ec.jpg" width="300" height="300">|
+
+- SIFT(blob) detector
+
+|INPUT|OUTPUT|
+|------|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76091682-62f9e700-6001-11ea-92ef-be0413b76c3f.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76091647-4fe71700-6001-11ea-977b-6fabef4f5b1d.jpg" width="300" height="300">|
+
+**7. Fitting**
+--
+
+- find "good" matches 
+    - ex. (Method) LMEDS
+
+|INPUT|OUTPUT(Object)|
+|------|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76092853-74dc8980-6003-11ea-9488-dd7834499750.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76092819-67270400-6003-11ea-8367-d144ec523118.jpg" width="400" height="400">|
+
+|INPUT|OUTPUT(Scene)|
+|------|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76092855-76a64d00-6003-11ea-8b46-3217fc6096c7.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76092829-6b532180-6003-11ea-834c-7690abf79eb6.jpg" width="400" height="400">|
+
+|OUTPUT(Good matches & Object detection)|
+|------|
+|<img src="https://user-images.githubusercontent.com/56310078/76093612-9f7b1200-6004-11ea-9bd5-614613ae1993.jpg" width="400" height="400">|
+
+- Homography Estimation
+    - Method(0, RANSAC, LMEDS) of fineHomography function
+
+|0(object)|RANSAC(object)|LMEDS(object)|
+|---|---|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76094453-01884700-6006-11ea-98ea-72b4294ea6d7.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76094456-03eaa100-6006-11ea-9fcf-36cb36d88864.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76094458-051bce00-6006-11ea-8697-22f295c4331b.jpg" width="300" height="300">|
+
+|0(Scene)|RANSAC(Scene)|LMEDS(Scene)|
+|---|---|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76094473-0c42dc00-6006-11ea-8a05-1bc4c7a43421.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76094476-0d740900-6006-11ea-9ead-f0275f8128ab.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76094481-0ea53600-6006-11ea-9c46-b4114699358f.jpg" width="300" height="300">|
+
+|0(Good matches & Object detection)|RANSAC(Good matches & Object detection)|LMEDS(Good matches & Object detection)|
+|---|---|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76094489-11a02680-6006-11ea-9aa8-f88eb6f5d79b.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76094490-12d15380-6006-11ea-9c1f-9bf521f4691f.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76094495-14028080-6006-11ea-8aa5-93f7ca21a741.jpg" width="300" height="300">|
+
+**8. Calibration**
+--
+
+1. Pring Checkerboard
+2. Using CamCalibrator tool of Darkpgmr
+3. Check Calibrate and Calculate focal length of your camera 
+
+**9. Stereo Matching and Rendering**
+--
+
+- Block matching based Disparity
+
+|INPUT(Left)|INPUT(Right)|
+|---|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76100167-92afeb80-600f-11ea-8327-d1272fadab70.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100170-93e11880-600f-11ea-96c7-c553d32538d9.jpg" width="400" height="400">|
+|OUTPUT(Support 5)|OUTPUT(Support 7)|
+|<img src="https://user-images.githubusercontent.com/56310078/76100172-9479af00-600f-11ea-94a6-a90ad778d45c.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100173-95aadc00-600f-11ea-820d-61fe5e4e8744.jpg" width="400" height="400">|
+|OUTPUT(Support 9)|OUTPUT(Support 11)|
+|<img src="https://user-images.githubusercontent.com/56310078/76100176-96dc0900-600f-11ea-9c5a-892f224365db.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100179-980d3600-600f-11ea-92e6-0d868a85a82c.jpg" width="400" height="400">|
+|OUTPUT(Support 15)|OUTPUT(Support 17)|
+|<img src="https://user-images.githubusercontent.com/56310078/76100182-993e6300-600f-11ea-80e7-d6efacd54b57.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100189-99d6f980-600f-11ea-8a3a-2a1d1431b1ea.jpg" width="400" height="400">|
+|OUTPUT(Support 19)|OUTPUT(Support 21)|
+|<img src="https://user-images.githubusercontent.com/56310078/76100192-9b082680-600f-11ea-93f3-334161501822.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100195-9cd1ea00-600f-11ea-8b03-d067ecf64730.jpg" width="400" height="400">|
+
+- 3D Rendering OUTPUT
+
+|x,y,z|Depth Image|Result|
+|---|---|---|
+|0,0,140|<img src="https://user-images.githubusercontent.com/56310078/76100206-a0fe0780-600f-11ea-8c22-38e8cef75511.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76100210-a22f3480-600f-11ea-8a2e-dbdb59675abf.jpg" width="300" height="300">|
+|56,0,140|<img src="https://user-images.githubusercontent.com/56310078/76100215-a3606180-600f-11ea-9637-319353dfa0b1.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76100221-a3f8f800-600f-11ea-92f7-4e6ba99c09ce.jpg" width="300" height="300">|
+|-42,0,140|<img src="https://user-images.githubusercontent.com/56310078/76100223-a52a2500-600f-11ea-8fc2-fa7afc9e7c9f.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76100229-a65b5200-600f-11ea-9c10-3bafc166d37e.jpg" width="300" height="300">|
+|0,0,0|<img src="https://user-images.githubusercontent.com/56310078/76100231-a6f3e880-600f-11ea-8d31-601e403452f2.jpg" width="300" height="300">|<img src="https://user-images.githubusercontent.com/56310078/76100235-a78c7f00-600f-11ea-9f87-d1dea2f88298.jpg" width="300" height="300">|
+
+- Texture mapping on the 3D shape
+    - Using OpenGL
+
+|INPUT|OUTPUT(No move)|
+|---|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76100386-e6bad000-600f-11ea-94c5-3ef7291a1c91.PNG" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100243-ad826000-600f-11ea-8bfb-94addcf267a3.jpg" width="400" height="400">|
+|OUTPUT(move)|OUTPUT(inner)|
+|<img src="https://user-images.githubusercontent.com/56310078/76100257-b115e700-600f-11ea-9df3-3a409c4decd4.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100260-b2471400-600f-11ea-9c99-6af968ef01d2.jpg" width="400" height="400">|
+
+- [FULL Video Demo(Texture mapping)](https://blog.naver.com/kimnanhee97/221841256177)
+- Sample
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56310078/76101954-9729d380-6012-11ea-893f-358ae7d1ecba.gif)
+
+**10. Face and body detection**
+--
+|INPUT|OUTPUT|
+|---|---|
+|<img src="https://user-images.githubusercontent.com/56310078/76100353-da367780-600f-11ea-936d-bcf2a5f6cbbf.jpg" width="400" height="400">|<img src="https://user-images.githubusercontent.com/56310078/76100397-ede1de00-600f-11ea-83a9-2a8a2a1034c5.jpg" width="400" height="400">|
