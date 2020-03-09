@@ -317,3 +317,6 @@ colorful star: searching at google
 Rhone River(Vincent Van Gogh): searching at google  
 Lemona, myimg(nanhee kim): nanhee kim  
 others(prof.sungho kim class): matlab and prof.sungho kim
+
+## Author
+Nanhee Kim / [@nh9k](https://nh9k.github.io/2020/01/28/Introduce-myself/)
